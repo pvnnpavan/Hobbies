@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-Hi I am Rajender:wq!
+Hi I am Rajender
 
-=======
+
 this is pavan
->>>>>>> 72f684be8ebacdd9f2e522b182673ace77dcf999
+ 72f684be8ebacdd9f2e522b182673ace77dcf999
